@@ -9,7 +9,7 @@
     <fileDesc>
       <titleStmt>
         <title>Bibliographic metadata for al-Quds</title>
-        <author>
+        <author xml:id="pers_TG">
           <persName>Till Grallert</persName>
         </author>
       </titleStmt>
@@ -28,6 +28,9 @@
         <p>This is a born-digital file.</p>
       </sourceDesc>
     </fileDesc>
+      <revisionDesc>
+          <change when="2017-05-15" who="#pers_TG">Created this file through automatic iteration and manual cross-checking with the digital facsimiles.</change>
+      </revisionDesc>
   </teiHeader>
   <text>
     <body>
