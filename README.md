@@ -21,7 +21,8 @@ The TEI is then [automatically converted](https://www.github.com/OpenArabicPE/co
 
 - errors
     - The purported scan of [#142](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-142) is indeed a duplicate of [#141](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-141)
-    - No file displayed for [#168](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-168), [#170](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-170). Instead these pages show "Hello world".
+    - No file displayed for [#168](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-168), [#170](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-170), [#254](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-254). Instead some of these pages show "Hello world".
+    - [#255](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-255) is completely missing.
     - The right side of page 3 of [#45](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-45), [#49](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-49) has been cut off making the first column illegible.
 
 [source]: tei/al-quds.TEIP5.xml
