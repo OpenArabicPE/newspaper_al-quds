@@ -20,11 +20,18 @@ The TEI is then [automatically converted](https://www.github.com/OpenArabicPE/co
 
 # notes on the digital facsimiles
 
-- errors
-    - The purported scan of [#142](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-142) is indeed a duplicate of [#141](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-141)
-    - No file displayed for [#168](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-168), [#170](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-170), [#254](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-254). Instead some of these pages show "Hello world".
-    - The right side of page 3 of [#45](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-45), [#49](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-49) has been cut off making the first column illegible.
-    - #265 has not been scanned
+- errors:
+    - Missing scans (some of these pages show "Hello world"):
+        + The purported scan of [#142](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-142) is indeed a duplicate of [#141](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-141)
+        + No file displayed for [#168](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-168)
+        + [#170](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-170)
+        + [#254](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-254)
+        + #265 has not been scanned
+    - Cut-off scans with illegible columns:
+        + The right side of page 3 of [#45](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-45)
+        + The right side of page 3 of [#49](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-49)
+    - Missing pages: 
+        + page 3 is missing from [#224](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-224)
     - The address to [#255](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/isu-255)  follows a different pattern.
 
 [source]: tei/al-quds.TEIP5.xml
