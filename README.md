@@ -10,7 +10,7 @@ This repository contains bibliographic metadata for the newspaper *al-Quds* publ
 
 - 2017-05-16: Issues #1 to #110 are now available
 - 2017-05-17: Issues #111 to #200 are now available
-- 2017-06-14: Issues #201 to #275 are now available
+- 2017-06-14: Issues #201 to #278 (the whole of 1911) are now available
 
 # some technical details
 
