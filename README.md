@@ -28,9 +28,12 @@ The TEI is then [automatically converted](https://www.github.com/OpenArabicPE/co
         + [#254](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-254)
         + #265 has not been scanned
     - Cut-off scans with illegible columns:
-        + The right side of page 3 of [#45](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-45)
-        + The right side of page 3 of [#49](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-49)
+        + The right side of page 3 of 
+           * [#45](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-45)
+           * [#49](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-49)
+           * [#60](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-60)
     - Missing pages: 
+        + page 4 is missing from [#154](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-154)
         + page 3 is missing from [#224](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-224)
     - The address to [#255](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/isu-255)  follows a different pattern.
 
