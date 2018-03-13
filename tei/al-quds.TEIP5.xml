@@ -14532,6 +14532,787 @@
                <note type="param" n="p_weekdays-published">Tuesday</note>
                <note type="param" n="p_step">daily</note>
             </tei:biblStruct>
+            <!-- #279 -->
+            <tei:biblStruct xml:lang="en">
+               <tei:monogr xml:lang="en">
+                  <title level="j" xml:lang="ar">القدس</title>
+                  <title level="j" type="sub" xml:lang="ar">جريدة علمية ادبية سياسية اخبارية يومية</title>
+                  <title level="j" type="sub" xml:lang="ar">تصدر موقت يومي الثلاثا والجمعة من كل اسبوع</title>
+                  <title level="j" xml:lang="ar-Latn-x-ijmes">al-Quds</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda ʿilmiyya adabiyya siyāsiyya akhbāriyya yamiyya</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">tuṣadir muwaqqat yawmay al-thulāthā wa al-jumaʿa min kull usbūʿ</title>
+                  <title level="j" xml:lang="fr">Al-Kouds</title>
+                  <title level="j" type="sub" xml:lang="fr">Journal bi-hebdomadaire</title>
+                  <idno type="oclc" xml:lang="en"/>
+                  <editor xml:lang="en"> 
+                     <persName xml:lang="ar"> 
+                        <forename>جرحي</forename>
+                            <surname>حبيب حنانيا</surname> 
+                     </persName> 
+                     <persName xml:lang="ar-Latn-x-ijmes"> 
+                        <forename>Jirjī</forename>
+                            <surname>Ḥabīb Ḥanāniyā</surname> 
+                     </persName>
+                     <persName xml:lang="fr">
+                        <forename>George I.</forename>
+                            <surname>Habib Hanania</surname>
+                     </persName> 
+                  </editor>
+                  <tei:imprint xml:lang="en">
+                     <publisher xml:lang="en"> 
+                        <orgName xml:lang="ar">مطبعة جرجي حبيب حنانيا</orgName> 
+                        <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa Jirji Ḥabīb Ḥanāniyā</orgName> 
+                     </publisher>
+                     <pubPlace xml:lang="en"> 
+                        <placeName xml:lang="ar">القدس</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">al-Quds</placeName> 
+                        <placeName xml:lang="en">Jerusalem</placeName>
+                        <placeName xml:lang="fr">Jérusalem</placeName> 
+                     </pubPlace>
+                     <tei:date type="computed"
+                               when="1912-01-05"
+                               datingMethod="#cal_gregorian"
+                               calendar="#cal_gregorian"
+                               xml:lang="ar-Latn-x-ijmes">5 January 1912</tei:date>
+                     <tei:date type="computed"
+                               when="1912-01-05"
+                               datingMethod="#cal_islamic"
+                               calendar="#cal_islamic"
+                               when-custom="1330-01-15"
+                               xml:lang="ar-Latn-x-ijmes">15 Muḥarram 1330</tei:date>
+                     <tei:date type="computed"
+                               when="1912-01-05"
+                               datingMethod="#cal_julian"
+                               calendar="#cal_julian"
+                               when-custom="1911-12-23"
+                               xml:lang="ar-Latn-x-ijmes">23 Kān I 1911</tei:date>
+                  </tei:imprint>
+                  <tei:biblScope from="4" to="4" unit="volume"/>
+                  <tei:biblScope from="279" to="279" unit="issue"/>
+                  <biblScope unit="page" from="1" to="4"/>
+               </tei:monogr>
+               <tei:ref type="url"
+                        target="http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-279"/>
+               <tei:ref type="url"
+                        target="https://drive.google.com/file/d/0BzWDYcgAm4e_MERLV1FpOG9OM2s"/>
+               <note type="param" n="p_weekdays-published">Friday</note>
+               <note type="param" n="p_step">daily</note>
+            </tei:biblStruct>
+            <tei:biblStruct xml:lang="en">
+               <tei:monogr xml:lang="en">
+                  <title level="j" xml:lang="ar">القدس</title>
+                  <title level="j" type="sub" xml:lang="ar">جريدة علمية ادبية سياسية اخبارية يومية</title>
+                  <title level="j" type="sub" xml:lang="ar">تصدر موقت يومي الثلاثا والجمعة من كل اسبوع</title>
+                  <title level="j" xml:lang="ar-Latn-x-ijmes">al-Quds</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda ʿilmiyya adabiyya siyāsiyya akhbāriyya yamiyya</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">tuṣadir muwaqqat yawmay al-thulāthā wa al-jumaʿa min kull usbūʿ</title>
+                  <title level="j" xml:lang="fr">Al-Kouds</title>
+                  <title level="j" type="sub" xml:lang="fr">Journal bi-hebdomadaire</title>
+                  <idno type="oclc" xml:lang="en"/>
+                  <editor xml:lang="en"> 
+                     <persName xml:lang="ar"> 
+                        <forename>جرحي</forename>
+                            <surname>حبيب حنانيا</surname> 
+                     </persName> 
+                     <persName xml:lang="ar-Latn-x-ijmes"> 
+                        <forename>Jirjī</forename>
+                            <surname>Ḥabīb Ḥanāniyā</surname> 
+                     </persName>
+                     <persName xml:lang="fr">
+                        <forename>George I.</forename>
+                            <surname>Habib Hanania</surname>
+                     </persName> 
+                  </editor>
+                  <tei:imprint xml:lang="en">
+                     <publisher xml:lang="en"> 
+                        <orgName xml:lang="ar">مطبعة جرجي حبيب حنانيا</orgName> 
+                        <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa Jirji Ḥabīb Ḥanāniyā</orgName> 
+                     </publisher>
+                     <pubPlace xml:lang="en"> 
+                        <placeName xml:lang="ar">القدس</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">al-Quds</placeName> 
+                        <placeName xml:lang="en">Jerusalem</placeName>
+                        <placeName xml:lang="fr">Jérusalem</placeName> 
+                     </pubPlace>
+                     <tei:date type="computed"
+                               when="1912-01-12"
+                               datingMethod="#cal_gregorian"
+                               calendar="#cal_gregorian"
+                               xml:lang="ar-Latn-x-ijmes">12 January 1912</tei:date>
+                     <tei:date type="computed"
+                               when="1912-01-12"
+                               datingMethod="#cal_islamic"
+                               calendar="#cal_islamic"
+                               when-custom="1330-01-22"
+                               xml:lang="ar-Latn-x-ijmes">22 Muḥarram 1330</tei:date>
+                     <tei:date type="computed"
+                               when="1912-01-12"
+                               datingMethod="#cal_julian"
+                               calendar="#cal_julian"
+                               when-custom="1911-12-30"
+                               xml:lang="ar-Latn-x-ijmes">30 Kān I 1911</tei:date>
+                  </tei:imprint>
+                  <tei:biblScope from="4" to="4" unit="volume"/>
+                  <tei:biblScope from="280" to="280" unit="issue"/>
+                  <biblScope unit="page" from="1" to="4"/>
+               </tei:monogr>
+               <tei:ref type="url"
+                        target="http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-280"/>
+               <tei:ref type="url"
+                        target="https://drive.google.com/file/d/0BzWDYcgAm4e_c1lvNDNLdkNPUkU"/>
+               <note type="param" n="p_weekdays-published">Friday</note>
+               <note type="param" n="p_step">daily</note>
+            </tei:biblStruct>
+            <tei:biblStruct xml:lang="en">
+               <tei:monogr xml:lang="en">
+                  <title level="j" xml:lang="ar">القدس</title>
+                  <title level="j" type="sub" xml:lang="ar">جريدة علمية ادبية سياسية اخبارية يومية</title>
+                  <title level="j" type="sub" xml:lang="ar">تصدر موقت يومي الثلاثا والجمعة من كل اسبوع</title>
+                  <title level="j" xml:lang="ar-Latn-x-ijmes">al-Quds</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda ʿilmiyya adabiyya siyāsiyya akhbāriyya yamiyya</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">tuṣadir muwaqqat yawmay al-thulāthā wa al-jumaʿa min kull usbūʿ</title>
+                  <title level="j" xml:lang="fr">Al-Kouds</title>
+                  <title level="j" type="sub" xml:lang="fr">Journal bi-hebdomadaire</title>
+                  <idno type="oclc" xml:lang="en"/>
+                  <editor xml:lang="en"> 
+                     <persName xml:lang="ar"> 
+                        <forename>جرحي</forename>
+                            <surname>حبيب حنانيا</surname> 
+                     </persName> 
+                     <persName xml:lang="ar-Latn-x-ijmes"> 
+                        <forename>Jirjī</forename>
+                            <surname>Ḥabīb Ḥanāniyā</surname> 
+                     </persName>
+                     <persName xml:lang="fr">
+                        <forename>George I.</forename>
+                            <surname>Habib Hanania</surname>
+                     </persName> 
+                  </editor>
+                  <tei:imprint xml:lang="en">
+                     <publisher xml:lang="en"> 
+                        <orgName xml:lang="ar">مطبعة جرجي حبيب حنانيا</orgName> 
+                        <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa Jirji Ḥabīb Ḥanāniyā</orgName> 
+                     </publisher>
+                     <pubPlace xml:lang="en"> 
+                        <placeName xml:lang="ar">القدس</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">al-Quds</placeName> 
+                        <placeName xml:lang="en">Jerusalem</placeName>
+                        <placeName xml:lang="fr">Jérusalem</placeName> 
+                     </pubPlace>
+                     <tei:date type="computed"
+                               when="1912-01-19"
+                               datingMethod="#cal_gregorian"
+                               calendar="#cal_gregorian"
+                               xml:lang="ar-Latn-x-ijmes">19 January 1912</tei:date>
+                     <tei:date type="computed"
+                               when="1912-01-19"
+                               datingMethod="#cal_islamic"
+                               calendar="#cal_islamic"
+                               when-custom="1330-01-29"
+                               xml:lang="ar-Latn-x-ijmes">29 Muḥarram 1330</tei:date>
+                     <tei:date type="computed"
+                               when="1912-01-19"
+                               datingMethod="#cal_julian"
+                               calendar="#cal_julian"
+                               when-custom="1912-01-06"
+                               xml:lang="ar-Latn-x-ijmes">6 Kān II 1912</tei:date>
+                  </tei:imprint>
+                  <tei:biblScope from="4" to="4" unit="volume"/>
+                  <tei:biblScope from="281" to="281" unit="issue"/>
+                  <biblScope unit="page" from="1" to="4"/>
+               </tei:monogr>
+               <tei:ref type="url"
+                        target="http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-281"/>
+               <tei:ref type="url"
+                        target="https://drive.google.com/file/d/0BzWDYcgAm4e_SlptYnJfdW1GZVU"/>
+               <note type="param" n="p_weekdays-published">Friday</note>
+               <note type="param" n="p_step">daily</note>
+            </tei:biblStruct>
+            <tei:biblStruct xml:lang="en">
+               <tei:monogr xml:lang="en">
+                  <title level="j" xml:lang="ar">القدس</title>
+                  <title level="j" type="sub" xml:lang="ar">جريدة علمية ادبية سياسية اخبارية يومية</title>
+                  <title level="j" type="sub" xml:lang="ar">تصدر موقت يومي الثلاثا والجمعة من كل اسبوع</title>
+                  <title level="j" xml:lang="ar-Latn-x-ijmes">al-Quds</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda ʿilmiyya adabiyya siyāsiyya akhbāriyya yamiyya</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">tuṣadir muwaqqat yawmay al-thulāthā wa al-jumaʿa min kull usbūʿ</title>
+                  <title level="j" xml:lang="fr">Al-Kouds</title>
+                  <title level="j" type="sub" xml:lang="fr">Journal bi-hebdomadaire</title>
+                  <idno type="oclc" xml:lang="en"/>
+                  <editor xml:lang="en"> 
+                     <persName xml:lang="ar"> 
+                        <forename>جرحي</forename>
+                            <surname>حبيب حنانيا</surname> 
+                     </persName> 
+                     <persName xml:lang="ar-Latn-x-ijmes"> 
+                        <forename>Jirjī</forename>
+                            <surname>Ḥabīb Ḥanāniyā</surname> 
+                     </persName>
+                     <persName xml:lang="fr">
+                        <forename>George I.</forename>
+                            <surname>Habib Hanania</surname>
+                     </persName> 
+                  </editor>
+                  <tei:imprint xml:lang="en">
+                     <publisher xml:lang="en"> 
+                        <orgName xml:lang="ar">مطبعة جرجي حبيب حنانيا</orgName> 
+                        <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa Jirji Ḥabīb Ḥanāniyā</orgName> 
+                     </publisher>
+                     <pubPlace xml:lang="en"> 
+                        <placeName xml:lang="ar">القدس</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">al-Quds</placeName> 
+                        <placeName xml:lang="en">Jerusalem</placeName>
+                        <placeName xml:lang="fr">Jérusalem</placeName> 
+                     </pubPlace>
+                     <tei:date type="computed"
+                               when="1912-01-26"
+                               datingMethod="#cal_gregorian"
+                               calendar="#cal_gregorian"
+                               xml:lang="ar-Latn-x-ijmes">26 January 1912</tei:date>
+                     <tei:date type="computed"
+                               when="1912-01-26"
+                               datingMethod="#cal_islamic"
+                               calendar="#cal_islamic"
+                               when-custom="1330-02-06"
+                               xml:lang="ar-Latn-x-ijmes">6 Ṣafār 1330</tei:date>
+                     <tei:date type="computed"
+                               when="1912-01-26"
+                               datingMethod="#cal_julian"
+                               calendar="#cal_julian"
+                               when-custom="1912-01-13"
+                               xml:lang="ar-Latn-x-ijmes">13 Kān II 1912</tei:date>
+                  </tei:imprint>
+                  <tei:biblScope from="4" to="4" unit="volume"/>
+                  <tei:biblScope from="282" to="282" unit="issue"/>
+                  <biblScope unit="page" from="1" to="4"/>
+               </tei:monogr>
+               <tei:ref type="url"
+                        target="http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-282"/>
+               <tei:ref type="url"
+                        target="https://drive.google.com/file/d/0BzWDYcgAm4e_WE5DXzhRWG5SaG8"/>
+               <note type="param" n="p_weekdays-published">Friday</note>
+               <note type="param" n="p_step">daily</note>
+            </tei:biblStruct>
+            <tei:biblStruct xml:lang="en">
+               <tei:monogr xml:lang="en">
+                  <title level="j" xml:lang="ar">القدس</title>
+                  <title level="j" type="sub" xml:lang="ar">جريدة علمية ادبية سياسية اخبارية يومية</title>
+                  <title level="j" type="sub" xml:lang="ar">تصدر موقت يومي الثلاثا والجمعة من كل اسبوع</title>
+                  <title level="j" xml:lang="ar-Latn-x-ijmes">al-Quds</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda ʿilmiyya adabiyya siyāsiyya akhbāriyya yamiyya</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">tuṣadir muwaqqat yawmay al-thulāthā wa al-jumaʿa min kull usbūʿ</title>
+                  <title level="j" xml:lang="fr">Al-Kouds</title>
+                  <title level="j" type="sub" xml:lang="fr">Journal bi-hebdomadaire</title>
+                  <idno type="oclc" xml:lang="en"/>
+                  <editor xml:lang="en"> 
+                     <persName xml:lang="ar"> 
+                        <forename>جرحي</forename>
+                            <surname>حبيب حنانيا</surname> 
+                     </persName> 
+                     <persName xml:lang="ar-Latn-x-ijmes"> 
+                        <forename>Jirjī</forename>
+                            <surname>Ḥabīb Ḥanāniyā</surname> 
+                     </persName>
+                     <persName xml:lang="fr">
+                        <forename>George I.</forename>
+                            <surname>Habib Hanania</surname>
+                     </persName> 
+                  </editor>
+                  <tei:imprint xml:lang="en">
+                     <publisher xml:lang="en"> 
+                        <orgName xml:lang="ar">مطبعة جرجي حبيب حنانيا</orgName> 
+                        <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa Jirji Ḥabīb Ḥanāniyā</orgName> 
+                     </publisher>
+                     <pubPlace xml:lang="en"> 
+                        <placeName xml:lang="ar">القدس</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">al-Quds</placeName> 
+                        <placeName xml:lang="en">Jerusalem</placeName>
+                        <placeName xml:lang="fr">Jérusalem</placeName> 
+                     </pubPlace>
+                     <tei:date type="computed"
+                               when="1912-02-02"
+                               datingMethod="#cal_gregorian"
+                               calendar="#cal_gregorian"
+                               xml:lang="ar-Latn-x-ijmes">2 February 1912</tei:date>
+                     <tei:date type="computed"
+                               when="1912-02-02"
+                               datingMethod="#cal_islamic"
+                               calendar="#cal_islamic"
+                               when-custom="1330-02-13"
+                               xml:lang="ar-Latn-x-ijmes">13 Ṣafār 1330</tei:date>
+                     <tei:date type="computed"
+                               when="1912-02-02"
+                               datingMethod="#cal_julian"
+                               calendar="#cal_julian"
+                               when-custom="1912-01-20"
+                               xml:lang="ar-Latn-x-ijmes">20 Kān II 1912</tei:date>
+                  </tei:imprint>
+                  <tei:biblScope from="4" to="4" unit="volume"/>
+                  <tei:biblScope from="283" to="283" unit="issue"/>
+                  <biblScope unit="page" from="1" to="4"/>
+               </tei:monogr>
+               <tei:ref type="url"
+                        target="http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-283"/>
+               <tei:ref type="url"
+                        target="https://drive.google.com/file/d/0BzWDYcgAm4e_YkdjMmVzLTZYZ1U"/>
+               <note type="param" n="p_weekdays-published">Friday</note>
+               <note type="param" n="p_step">daily</note>
+            </tei:biblStruct>
+            <tei:biblStruct xml:lang="en">
+               <tei:monogr xml:lang="en">
+                  <title level="j" xml:lang="ar">القدس</title>
+                  <title level="j" type="sub" xml:lang="ar">جريدة علمية ادبية سياسية اخبارية يومية</title>
+                  <title level="j" type="sub" xml:lang="ar">تصدر موقت يومي الثلاثا والجمعة من كل اسبوع</title>
+                  <title level="j" xml:lang="ar-Latn-x-ijmes">al-Quds</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda ʿilmiyya adabiyya siyāsiyya akhbāriyya yamiyya</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">tuṣadir muwaqqat yawmay al-thulāthā wa al-jumaʿa min kull usbūʿ</title>
+                  <title level="j" xml:lang="fr">Al-Kouds</title>
+                  <title level="j" type="sub" xml:lang="fr">Journal bi-hebdomadaire</title>
+                  <idno type="oclc" xml:lang="en"/>
+                  <editor xml:lang="en"> 
+                     <persName xml:lang="ar"> 
+                        <forename>جرحي</forename>
+                            <surname>حبيب حنانيا</surname> 
+                     </persName> 
+                     <persName xml:lang="ar-Latn-x-ijmes"> 
+                        <forename>Jirjī</forename>
+                            <surname>Ḥabīb Ḥanāniyā</surname> 
+                     </persName>
+                     <persName xml:lang="fr">
+                        <forename>George I.</forename>
+                            <surname>Habib Hanania</surname>
+                     </persName> 
+                  </editor>
+                  <tei:imprint xml:lang="en">
+                     <publisher xml:lang="en"> 
+                        <orgName xml:lang="ar">مطبعة جرجي حبيب حنانيا</orgName> 
+                        <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa Jirji Ḥabīb Ḥanāniyā</orgName> 
+                     </publisher>
+                     <pubPlace xml:lang="en"> 
+                        <placeName xml:lang="ar">القدس</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">al-Quds</placeName> 
+                        <placeName xml:lang="en">Jerusalem</placeName>
+                        <placeName xml:lang="fr">Jérusalem</placeName> 
+                     </pubPlace>
+                     <tei:date type="computed"
+                               when="1912-02-09"
+                               datingMethod="#cal_gregorian"
+                               calendar="#cal_gregorian"
+                               xml:lang="ar-Latn-x-ijmes">9 February 1912</tei:date>
+                     <tei:date type="computed"
+                               when="1912-02-09"
+                               datingMethod="#cal_islamic"
+                               calendar="#cal_islamic"
+                               when-custom="1330-02-20"
+                               xml:lang="ar-Latn-x-ijmes">20 Ṣafār 1330</tei:date>
+                     <tei:date type="computed"
+                               when="1912-02-09"
+                               datingMethod="#cal_julian"
+                               calendar="#cal_julian"
+                               when-custom="1912-01-27"
+                               xml:lang="ar-Latn-x-ijmes">27 Kān II 1912</tei:date>
+                  </tei:imprint>
+                  <tei:biblScope from="4" to="4" unit="volume"/>
+                  <tei:biblScope from="284" to="284" unit="issue"/>
+                  <biblScope unit="page" from="1" to="4"/>
+               </tei:monogr>
+               <tei:ref type="url"
+                        target="http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-284"/>
+               <tei:ref type="url"
+                        target="https://drive.google.com/file/d/0BzWDYcgAm4e_ckprV0NWX1ZSa1U"/>
+               <note type="param" n="p_weekdays-published">Friday</note>
+               <note type="param" n="p_step">daily</note>
+            </tei:biblStruct>
+            <tei:biblStruct xml:lang="en">
+               <tei:monogr xml:lang="en">
+                  <title level="j" xml:lang="ar">القدس</title>
+                  <title level="j" type="sub" xml:lang="ar">جريدة علمية ادبية سياسية اخبارية يومية</title>
+                  <title level="j" type="sub" xml:lang="ar">تصدر موقت يومي الثلاثا والجمعة من كل اسبوع</title>
+                  <title level="j" xml:lang="ar-Latn-x-ijmes">al-Quds</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda ʿilmiyya adabiyya siyāsiyya akhbāriyya yamiyya</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">tuṣadir muwaqqat yawmay al-thulāthā wa al-jumaʿa min kull usbūʿ</title>
+                  <title level="j" xml:lang="fr">Al-Kouds</title>
+                  <title level="j" type="sub" xml:lang="fr">Journal bi-hebdomadaire</title>
+                  <idno type="oclc" xml:lang="en"/>
+                  <editor xml:lang="en"> 
+                     <persName xml:lang="ar"> 
+                        <forename>جرحي</forename>
+                            <surname>حبيب حنانيا</surname> 
+                     </persName> 
+                     <persName xml:lang="ar-Latn-x-ijmes"> 
+                        <forename>Jirjī</forename>
+                            <surname>Ḥabīb Ḥanāniyā</surname> 
+                     </persName>
+                     <persName xml:lang="fr">
+                        <forename>George I.</forename>
+                            <surname>Habib Hanania</surname>
+                     </persName> 
+                  </editor>
+                  <tei:imprint xml:lang="en">
+                     <publisher xml:lang="en"> 
+                        <orgName xml:lang="ar">مطبعة جرجي حبيب حنانيا</orgName> 
+                        <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa Jirji Ḥabīb Ḥanāniyā</orgName> 
+                     </publisher>
+                     <pubPlace xml:lang="en"> 
+                        <placeName xml:lang="ar">القدس</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">al-Quds</placeName> 
+                        <placeName xml:lang="en">Jerusalem</placeName>
+                        <placeName xml:lang="fr">Jérusalem</placeName> 
+                     </pubPlace>
+                     <tei:date type="computed"
+                               when="1912-02-16"
+                               datingMethod="#cal_gregorian"
+                               calendar="#cal_gregorian"
+                               xml:lang="ar-Latn-x-ijmes">16 February 1912</tei:date>
+                     <tei:date type="computed"
+                               when="1912-02-16"
+                               datingMethod="#cal_islamic"
+                               calendar="#cal_islamic"
+                               when-custom="1330-02-27"
+                               xml:lang="ar-Latn-x-ijmes">27 Ṣafār 1330</tei:date>
+                     <tei:date type="computed"
+                               when="1912-02-16"
+                               datingMethod="#cal_julian"
+                               calendar="#cal_julian"
+                               when-custom="1912-02-03"
+                               xml:lang="ar-Latn-x-ijmes">3 Shub 1912</tei:date>
+                  </tei:imprint>
+                  <tei:biblScope from="4" to="4" unit="volume"/>
+                  <tei:biblScope from="285" to="285" unit="issue"/>
+                  <biblScope unit="page" from="1" to="4"/>
+               </tei:monogr>
+               <tei:ref type="url"
+                        target="http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-285"/>
+               <tei:ref type="url"
+                        target="https://drive.google.com/file/d/0BzWDYcgAm4e_ejdDT3UyTjhZeFE"/>
+               <note type="param" n="p_weekdays-published">Friday</note>
+               <note type="param" n="p_step">daily</note>
+            </tei:biblStruct>
+            <tei:biblStruct xml:lang="en">
+               <tei:monogr xml:lang="en">
+                  <title level="j" xml:lang="ar">القدس</title>
+                  <title level="j" type="sub" xml:lang="ar">جريدة علمية ادبية سياسية اخبارية يومية</title>
+                  <title level="j" type="sub" xml:lang="ar">تصدر موقت يومي الثلاثا والجمعة من كل اسبوع</title>
+                  <title level="j" xml:lang="ar-Latn-x-ijmes">al-Quds</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda ʿilmiyya adabiyya siyāsiyya akhbāriyya yamiyya</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">tuṣadir muwaqqat yawmay al-thulāthā wa al-jumaʿa min kull usbūʿ</title>
+                  <title level="j" xml:lang="fr">Al-Kouds</title>
+                  <title level="j" type="sub" xml:lang="fr">Journal bi-hebdomadaire</title>
+                  <idno type="oclc" xml:lang="en"/>
+                  <editor xml:lang="en"> 
+                     <persName xml:lang="ar"> 
+                        <forename>جرحي</forename>
+                            <surname>حبيب حنانيا</surname> 
+                     </persName> 
+                     <persName xml:lang="ar-Latn-x-ijmes"> 
+                        <forename>Jirjī</forename>
+                            <surname>Ḥabīb Ḥanāniyā</surname> 
+                     </persName>
+                     <persName xml:lang="fr">
+                        <forename>George I.</forename>
+                            <surname>Habib Hanania</surname>
+                     </persName> 
+                  </editor>
+                  <tei:imprint xml:lang="en">
+                     <publisher xml:lang="en"> 
+                        <orgName xml:lang="ar">مطبعة جرجي حبيب حنانيا</orgName> 
+                        <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa Jirji Ḥabīb Ḥanāniyā</orgName> 
+                     </publisher>
+                     <pubPlace xml:lang="en"> 
+                        <placeName xml:lang="ar">القدس</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">al-Quds</placeName> 
+                        <placeName xml:lang="en">Jerusalem</placeName>
+                        <placeName xml:lang="fr">Jérusalem</placeName> 
+                     </pubPlace>
+                     <tei:date type="computed"
+                               when="1912-02-23"
+                               datingMethod="#cal_gregorian"
+                               calendar="#cal_gregorian"
+                               xml:lang="ar-Latn-x-ijmes">23 February 1912</tei:date>
+                     <tei:date type="computed"
+                               when="1912-02-23"
+                               datingMethod="#cal_islamic"
+                               calendar="#cal_islamic"
+                               when-custom="1330-03-05"
+                               xml:lang="ar-Latn-x-ijmes">5 Rabīʿ al-awwal 1330</tei:date>
+                     <tei:date type="computed"
+                               when="1912-02-23"
+                               datingMethod="#cal_julian"
+                               calendar="#cal_julian"
+                               when-custom="1912-02-10"
+                               xml:lang="ar-Latn-x-ijmes">10 Shub 1912</tei:date>
+                  </tei:imprint>
+                  <tei:biblScope from="4" to="4" unit="volume"/>
+                  <tei:biblScope from="286" to="286" unit="issue"/>
+                  <biblScope unit="page" from="1" to="4"/>
+               </tei:monogr>
+               <tei:ref type="url"
+                        target="http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-286"/>
+               <tei:ref type="url"
+                        target="https://drive.google.com/file/d/0BzWDYcgAm4e_ZEpJZGZYaWVZWTQ"/>
+               <note type="param" n="p_weekdays-published">Friday</note>
+               <note type="param" n="p_step">daily</note>
+            </tei:biblStruct>
+            <tei:biblStruct xml:lang="en">
+               <tei:monogr xml:lang="en">
+                  <title level="j" xml:lang="ar">القدس</title>
+                  <title level="j" type="sub" xml:lang="ar">جريدة علمية ادبية سياسية اخبارية يومية</title>
+                  <title level="j" type="sub" xml:lang="ar">تصدر موقت يومي الثلاثا والجمعة من كل اسبوع</title>
+                  <title level="j" xml:lang="ar-Latn-x-ijmes">al-Quds</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda ʿilmiyya adabiyya siyāsiyya akhbāriyya yamiyya</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">tuṣadir muwaqqat yawmay al-thulāthā wa al-jumaʿa min kull usbūʿ</title>
+                  <title level="j" xml:lang="fr">Al-Kouds</title>
+                  <title level="j" type="sub" xml:lang="fr">Journal bi-hebdomadaire</title>
+                  <idno type="oclc" xml:lang="en"/>
+                  <editor xml:lang="en"> 
+                     <persName xml:lang="ar"> 
+                        <forename>جرحي</forename>
+                            <surname>حبيب حنانيا</surname> 
+                     </persName> 
+                     <persName xml:lang="ar-Latn-x-ijmes"> 
+                        <forename>Jirjī</forename>
+                            <surname>Ḥabīb Ḥanāniyā</surname> 
+                     </persName>
+                     <persName xml:lang="fr">
+                        <forename>George I.</forename>
+                            <surname>Habib Hanania</surname>
+                     </persName> 
+                  </editor>
+                  <tei:imprint xml:lang="en">
+                     <publisher xml:lang="en"> 
+                        <orgName xml:lang="ar">مطبعة جرجي حبيب حنانيا</orgName> 
+                        <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa Jirji Ḥabīb Ḥanāniyā</orgName> 
+                     </publisher>
+                     <pubPlace xml:lang="en"> 
+                        <placeName xml:lang="ar">القدس</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">al-Quds</placeName> 
+                        <placeName xml:lang="en">Jerusalem</placeName>
+                        <placeName xml:lang="fr">Jérusalem</placeName> 
+                     </pubPlace>
+                     <tei:date type="computed"
+                               when="1912-03-01"
+                               datingMethod="#cal_gregorian"
+                               calendar="#cal_gregorian"
+                               xml:lang="ar-Latn-x-ijmes">1 March 1912</tei:date>
+                     <tei:date type="computed"
+                               when="1912-03-01"
+                               datingMethod="#cal_islamic"
+                               calendar="#cal_islamic"
+                               when-custom="1330-03-12"
+                               xml:lang="ar-Latn-x-ijmes">12 Rabīʿ al-awwal 1330</tei:date>
+                     <tei:date type="computed"
+                               when="1912-03-01"
+                               datingMethod="#cal_julian"
+                               calendar="#cal_julian"
+                               when-custom="1912-02-17"
+                               xml:lang="ar-Latn-x-ijmes">17 Shub 1912</tei:date>
+                  </tei:imprint>
+                  <tei:biblScope from="4" to="4" unit="volume"/>
+                  <tei:biblScope from="287" to="287" unit="issue"/>
+                  <biblScope unit="page" from="1" to="4"/>
+               </tei:monogr>
+               <tei:ref type="url"
+                        target="http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-287"/>
+               <tei:ref type="url"
+                        target="https://drive.google.com/file/d/0BzWDYcgAm4e_MWhRc3ZUN3NEVWc"/>
+               <note type="param" n="p_weekdays-published">Friday</note>
+               <note type="param" n="p_step">daily</note>
+            </tei:biblStruct>
+            <tei:biblStruct xml:lang="en">
+               <tei:monogr xml:lang="en">
+                  <title level="j" xml:lang="ar">القدس</title>
+                  <title level="j" type="sub" xml:lang="ar">جريدة علمية ادبية سياسية اخبارية يومية</title>
+                  <title level="j" type="sub" xml:lang="ar">تصدر موقت يومي الثلاثا والجمعة من كل اسبوع</title>
+                  <title level="j" xml:lang="ar-Latn-x-ijmes">al-Quds</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda ʿilmiyya adabiyya siyāsiyya akhbāriyya yamiyya</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">tuṣadir muwaqqat yawmay al-thulāthā wa al-jumaʿa min kull usbūʿ</title>
+                  <title level="j" xml:lang="fr">Al-Kouds</title>
+                  <title level="j" type="sub" xml:lang="fr">Journal bi-hebdomadaire</title>
+                  <idno type="oclc" xml:lang="en"/>
+                  <editor xml:lang="en"> 
+                     <persName xml:lang="ar"> 
+                        <forename>جرحي</forename>
+                            <surname>حبيب حنانيا</surname> 
+                     </persName> 
+                     <persName xml:lang="ar-Latn-x-ijmes"> 
+                        <forename>Jirjī</forename>
+                            <surname>Ḥabīb Ḥanāniyā</surname> 
+                     </persName>
+                     <persName xml:lang="fr">
+                        <forename>George I.</forename>
+                            <surname>Habib Hanania</surname>
+                     </persName> 
+                  </editor>
+                  <tei:imprint xml:lang="en">
+                     <publisher xml:lang="en"> 
+                        <orgName xml:lang="ar">مطبعة جرجي حبيب حنانيا</orgName> 
+                        <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa Jirji Ḥabīb Ḥanāniyā</orgName> 
+                     </publisher>
+                     <pubPlace xml:lang="en"> 
+                        <placeName xml:lang="ar">القدس</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">al-Quds</placeName> 
+                        <placeName xml:lang="en">Jerusalem</placeName>
+                        <placeName xml:lang="fr">Jérusalem</placeName> 
+                     </pubPlace>
+                     <tei:date type="computed"
+                               when="1912-03-08"
+                               datingMethod="#cal_gregorian"
+                               calendar="#cal_gregorian"
+                               xml:lang="ar-Latn-x-ijmes">8 March 1912</tei:date>
+                     <tei:date type="computed"
+                               when="1912-03-08"
+                               datingMethod="#cal_islamic"
+                               calendar="#cal_islamic"
+                               when-custom="1330-03-19"
+                               xml:lang="ar-Latn-x-ijmes">19 Rabīʿ al-awwal 1330</tei:date>
+                     <tei:date type="computed"
+                               when="1912-03-08"
+                               datingMethod="#cal_julian"
+                               calendar="#cal_julian"
+                               when-custom="1912-02-24"
+                               xml:lang="ar-Latn-x-ijmes">24 Shub 1912</tei:date>
+                  </tei:imprint>
+                  <tei:biblScope from="4" to="4" unit="volume"/>
+                  <tei:biblScope from="288" to="288" unit="issue"/>
+                  <biblScope unit="page" from="1" to="4"/>
+               </tei:monogr>
+               <tei:ref type="url"
+                        target="http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-288"/>
+               <tei:ref type="url"
+                        target="https://drive.google.com/file/d/0BzWDYcgAm4e_VWREVFE2RmRkSHc"/>
+               <note type="param" n="p_weekdays-published">Friday</note>
+               <note type="param" n="p_step">daily</note>
+            </tei:biblStruct>
+            <tei:biblStruct xml:lang="en">
+               <tei:monogr xml:lang="en">
+                  <title level="j" xml:lang="ar">القدس</title>
+                  <title level="j" type="sub" xml:lang="ar">جريدة علمية ادبية سياسية اخبارية يومية</title>
+                  <title level="j" type="sub" xml:lang="ar">تصدر موقت يومي الثلاثا والجمعة من كل اسبوع</title>
+                  <title level="j" xml:lang="ar-Latn-x-ijmes">al-Quds</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda ʿilmiyya adabiyya siyāsiyya akhbāriyya yamiyya</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">tuṣadir muwaqqat yawmay al-thulāthā wa al-jumaʿa min kull usbūʿ</title>
+                  <title level="j" xml:lang="fr">Al-Kouds</title>
+                  <title level="j" type="sub" xml:lang="fr">Journal bi-hebdomadaire</title>
+                  <idno type="oclc" xml:lang="en"/>
+                  <editor xml:lang="en"> 
+                     <persName xml:lang="ar"> 
+                        <forename>جرحي</forename>
+                            <surname>حبيب حنانيا</surname> 
+                     </persName> 
+                     <persName xml:lang="ar-Latn-x-ijmes"> 
+                        <forename>Jirjī</forename>
+                            <surname>Ḥabīb Ḥanāniyā</surname> 
+                     </persName>
+                     <persName xml:lang="fr">
+                        <forename>George I.</forename>
+                            <surname>Habib Hanania</surname>
+                     </persName> 
+                  </editor>
+                  <tei:imprint xml:lang="en">
+                     <publisher xml:lang="en"> 
+                        <orgName xml:lang="ar">مطبعة جرجي حبيب حنانيا</orgName> 
+                        <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa Jirji Ḥabīb Ḥanāniyā</orgName> 
+                     </publisher>
+                     <pubPlace xml:lang="en"> 
+                        <placeName xml:lang="ar">القدس</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">al-Quds</placeName> 
+                        <placeName xml:lang="en">Jerusalem</placeName>
+                        <placeName xml:lang="fr">Jérusalem</placeName> 
+                     </pubPlace>
+                     <tei:date type="computed"
+                               when="1912-03-15"
+                               datingMethod="#cal_gregorian"
+                               calendar="#cal_gregorian"
+                               xml:lang="ar-Latn-x-ijmes">15 March 1912</tei:date>
+                     <tei:date type="computed"
+                               when="1912-03-15"
+                               datingMethod="#cal_islamic"
+                               calendar="#cal_islamic"
+                               when-custom="1330-03-26"
+                               xml:lang="ar-Latn-x-ijmes">26 Rabīʿ al-awwal 1330</tei:date>
+                     <tei:date type="computed"
+                               when="1912-03-15"
+                               datingMethod="#cal_julian"
+                               calendar="#cal_julian"
+                               when-custom="1912-03-02"
+                               xml:lang="ar-Latn-x-ijmes">2 Ādhār 1912</tei:date>
+                  </tei:imprint>
+                  <tei:biblScope from="4" to="4" unit="volume"/>
+                  <tei:biblScope from="289" to="289" unit="issue"/>
+                  <biblScope unit="page" from="1" to="4"/>
+               </tei:monogr>
+               <tei:ref type="url"
+                        target="http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-289"/>
+               <tei:ref type="url"
+                        target="https://drive.google.com/file/d/0BzWDYcgAm4e_TGEwdG1uQ25uenM"/>
+               <note type="param" n="p_weekdays-published">Friday</note>
+               <note type="param" n="p_step">daily</note>
+            </tei:biblStruct>
+            <tei:biblStruct xml:lang="en">
+               <tei:monogr xml:lang="en">
+                  <title level="j" xml:lang="ar">القدس</title>
+                  <title level="j" type="sub" xml:lang="ar">جريدة علمية ادبية سياسية اخبارية يومية</title>
+                  <title level="j" type="sub" xml:lang="ar">تصدر موقت يومي الثلاثا والجمعة من كل اسبوع</title>
+                  <title level="j" xml:lang="ar-Latn-x-ijmes">al-Quds</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda ʿilmiyya adabiyya siyāsiyya akhbāriyya yamiyya</title>
+                  <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">tuṣadir muwaqqat yawmay al-thulāthā wa al-jumaʿa min kull usbūʿ</title>
+                  <title level="j" xml:lang="fr">Al-Kouds</title>
+                  <title level="j" type="sub" xml:lang="fr">Journal bi-hebdomadaire</title>
+                  <idno type="oclc" xml:lang="en"/>
+                  <editor xml:lang="en"> 
+                     <persName xml:lang="ar"> 
+                        <forename>جرحي</forename>
+                            <surname>حبيب حنانيا</surname> 
+                     </persName> 
+                     <persName xml:lang="ar-Latn-x-ijmes"> 
+                        <forename>Jirjī</forename>
+                            <surname>Ḥabīb Ḥanāniyā</surname> 
+                     </persName>
+                     <persName xml:lang="fr">
+                        <forename>George I.</forename>
+                            <surname>Habib Hanania</surname>
+                     </persName> 
+                  </editor>
+                  <tei:imprint xml:lang="en">
+                     <publisher xml:lang="en"> 
+                        <orgName xml:lang="ar">مطبعة جرجي حبيب حنانيا</orgName> 
+                        <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa Jirji Ḥabīb Ḥanāniyā</orgName> 
+                     </publisher>
+                     <pubPlace xml:lang="en"> 
+                        <placeName xml:lang="ar">القدس</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">al-Quds</placeName> 
+                        <placeName xml:lang="en">Jerusalem</placeName>
+                        <placeName xml:lang="fr">Jérusalem</placeName> 
+                     </pubPlace>
+                     <tei:date type="computed"
+                               when="1912-03-22"
+                               datingMethod="#cal_gregorian"
+                               calendar="#cal_gregorian"
+                               xml:lang="ar-Latn-x-ijmes">22 March 1912</tei:date>
+                     <tei:date type="computed"
+                               when="1912-03-22"
+                               datingMethod="#cal_islamic"
+                               calendar="#cal_islamic"
+                               when-custom="1330-04-03"
+                               xml:lang="ar-Latn-x-ijmes">3 Rabīʿ al-thānī 1330</tei:date>
+                     <tei:date type="computed"
+                               when="1912-03-22"
+                               datingMethod="#cal_julian"
+                               calendar="#cal_julian"
+                               when-custom="1912-03-09"
+                               xml:lang="ar-Latn-x-ijmes">9 Ādhār 1912</tei:date>
+                  </tei:imprint>
+                  <tei:biblScope from="4" to="4" unit="volume"/>
+                  <tei:biblScope from="290" to="290" unit="issue"/>
+                  <biblScope unit="page" from="1" to="4"/>
+               </tei:monogr>
+               <tei:ref type="url"
+                        target="http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-290"/>
+               <tei:ref type="url"
+                        target="https://drive.google.com/file/d/0BzWDYcgAm4e_N2dCT2xaNGJqRUk"/>
+               <note type="param" n="p_weekdays-published">Friday</note>
+               <note type="param" n="p_step">daily</note>
+            </tei:biblStruct>
             </tei:listBibl>
         </body>
     </text>
