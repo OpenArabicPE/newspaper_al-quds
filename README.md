@@ -11,7 +11,7 @@ This repository contains bibliographic metadata for the newspaper *al-Quds* publ
 - 2017-05-16: Issues #1 to #110 are now available
 - 2017-05-17: Issues #111 to #200 are now available
 - 2017-06-14: Issues #201 to #278 (the whole of 1911) are now available
-- 2018-03-13: Issues #279 to #370
+- 2018-03-13: Issues #279 to #391
 
 # some technical details
 
@@ -46,5 +46,5 @@ The TEI is then [automatically converted](https://www.github.com/OpenArabicPE/co
         + [#343]()
 
 
-[source]: tei/al-quds.TEIP5.xml
+[source]: metadata/al-quds.TEIP5.xml
 [mods]: metadata/al-quds.MODS.xml
