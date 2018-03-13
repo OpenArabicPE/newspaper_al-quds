@@ -11,6 +11,7 @@ This repository contains bibliographic metadata for the newspaper *al-Quds* publ
 - 2017-05-16: Issues #1 to #110 are now available
 - 2017-05-17: Issues #111 to #200 are now available
 - 2017-06-14: Issues #201 to #278 (the whole of 1911) are now available
+- 2018-03-13: Issues #279 to #370
 
 # some technical details
 
@@ -26,10 +27,12 @@ The TEI is then [automatically converted](https://www.github.com/OpenArabicPE/co
         + No file displayed for [#168](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-168)
         + [#170](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-170)
         + [#254](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-254)
+        + [#373](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-373)
+        + [#377](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-377)
         + #265 has not been scanned
         + #345 has not been scanned
         + #360 has not been scanned
-        + #371 has not been scanned
+        + #372 has not been scanned
     - Cut-off scans with illegible columns:
         + The right side of page 3 of 
            * [#45](http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-45)
