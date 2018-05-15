@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://rawgit.com/OpenArabicPE/OpenArabicPE_ODD/v0.1/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../boilerplate/xslt/teibp_parameters.xsl"?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0"
+         xmlns:tei="http://www.tei-c.org/ns/1.0"
+         xml:id="oclc_990281211-i_78"
+         prev="oclc_990281211-i_77.TEIP5.xml"
+         next="oclc_990281211-i_79.TEIP5.xml">
+   <tei:teiHeader xml:lang="en">
+      <tei:fileDesc>
+         <tei:titleStmt>
+            <title>al-Quds #78, 17 August 1909</title>
+            <title type="sub">TEI edition</title>
+            <respStmt xml:lang="en">
+               <resp>TEI edition</resp>
+               <persName xml:id="pers_TG">
+                  <forename>Till</forename>
+                  <surname>Grallert</surname>
+               </persName>
+            </respStmt>
+         </tei:titleStmt>
+         <tei:publicationStmt>
+            <authority>
+               <persName>Till Grallert</persName>
+            </authority>
+            <pubPlace>Beirut</pubPlace>
+            <date when="2018">2018</date>
+            <availability status="restricted">
+               <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license</licence>
+            </availability>
+            <idno type="url">https://github.com/openarabicpe/newspaper_thamarat-al-funun/blob/master/xml/oclc_990281211-i_78.TEIP5.xml</idno>
+         </tei:publicationStmt>
+         <tei:sourceDesc>
+            <tei:biblStruct xml:lang="en">
+                    <tei:monogr xml:lang="en">
+                        <title level="j" xml:lang="ar">القدس</title>
+                        <title level="j" type="sub" xml:lang="ar">جريدة علمية ادبية اخبارية</title>
+                        <title level="j" type="sub" xml:lang="ar">تصدر يومي الثلاثا والجمعة من كل اسبوع</title>
+                        <title level="j" xml:lang="ar-Latn-x-ijmes">al-Quds</title>
+                        <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">Jarīda ʿilmiyya adabiyya akhbāriyya</title>
+                        <title level="j" type="sub" xml:lang="ar-Latn-x-ijmes">tuṣadir yawmay al-thulāthā wa al-jumaʿa min kull usbūʿ</title>
+                        <title level="j" xml:lang="fr">Al-Kouds</title>
+                        <title level="j" type="sub" xml:lang="fr">Journal bi-hebdomadaire</title>
+                        <idno type="oclc" xml:lang="en">990281211</idno>
+                        <editor xml:lang="en">
+                            <persName xml:lang="ar">
+                                <forename>جرحي</forename>
+                                <surname>حبيب حنانيا</surname>
+                            </persName>
+                            <persName xml:lang="ar-Latn-x-ijmes">
+                                <forename>Jirjī</forename>
+                                <surname>Ḥabīb Ḥanāniyā</surname>
+                            </persName>
+                            <persName xml:lang="fr">
+                                <forename>George I.</forename>
+                                <surname>Habib Hanania</surname>
+                            </persName>
+                        </editor>
+                        <tei:imprint xml:lang="en">
+                            <publisher xml:lang="en">
+                                <orgName xml:lang="ar">مطبعة جرجي حبيب حنانيا</orgName>
+                                <orgName xml:lang="ar-Latn-x-ijmes">Maṭbaʿa Jirji Ḥabīb Ḥanāniyā</orgName>
+                            </publisher>
+                            <pubPlace xml:lang="en">
+                                <placeName xml:lang="ar">القدس</placeName>
+                                <placeName xml:lang="ar-Latn-x-ijmes">al-Quds</placeName>
+                                <placeName xml:lang="en">Jerusalem</placeName>
+                                <placeName xml:lang="fr">Jérusalem</placeName>
+                            </pubPlace>
+                            <tei:date calendar="#cal_islamic"
+                               datingMethod="#cal_islamic"
+                               type="computed"
+                               when="1909-08-17"
+                               when-custom="1327-07-30"
+                               xml:lang="ar-Latn-x-ijmes">30 Rajab 1327</tei:date>
+                            <tei:date calendar="#cal_julian"
+                               datingMethod="#cal_julian"
+                               type="computed"
+                               when="1909-08-17"
+                               when-custom="1909-08-04"
+                               xml:lang="ar-Latn-x-ijmes">4 Āb 1909</tei:date>
+                        </tei:imprint>
+                        <tei:biblScope from="1" to="1" unit="volume"/>
+                        <tei:biblScope from="78" to="78" unit="issue"/>
+                        <biblScope from="1" to="4" unit="page"/>
+                    </tei:monogr>
+                    <tei:ref target="http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/21/issue-78"
+                        type="url"/>
+                    <note n="p_weekdays-published" type="param">Tuesday, Friday</note>
+                    <note n="p_step" type="param">daily</note>
+                </tei:biblStruct>
+         </tei:sourceDesc>
+      </tei:fileDesc>
+      <tei:revisionDesc>
+         <tei:change when="2018-03-14">Created this file by automatic conversion of <tei:gi>biblStruct</tei:gi> from file:/Volumes/Dessau%20HD/BachUni/BachBibliothek/GitHub/OpenArabicPE/newspaper_al-quds/metadata/al-quds.TEIP5.xml.</tei:change>
+      </tei:revisionDesc>
+   </tei:teiHeader>
+   <tei:facsimile>
+      <tei:surface xml:id="facs_1"/>
+      <tei:surface xml:id="facs_2"/>
+      <tei:surface xml:id="facs_3"/>
+      <tei:surface xml:id="facs_4"/>
+   </tei:facsimile>
+   <tei:text xml:lang="ar">
+      <tei:pb ed="print" n="1" facs="#facs_1"/>
+      <tei:body>
+         <tei:div>
+            <tei:pb ed="print" n="2" facs="#facs_2"/>
+            <tei:pb ed="print" n="3" facs="#facs_3"/>
+            <tei:pb ed="print" n="4" facs="#facs_4"/>
+         </tei:div>
+      </tei:body>
+   </tei:text>
+</tei:TEI>
