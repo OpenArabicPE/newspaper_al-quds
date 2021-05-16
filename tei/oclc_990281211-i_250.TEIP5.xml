@@ -82,7 +82,7 @@
                   <biblScope unit="page" from="1" to="4"/>
                </tei:monogr>
                <tei:ref type="url"
-                        target="http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-250"/>
+                        target="http://palestine.mei.columbia.edu/alquds-issues/2017/2/23/issue-250"/>
                <tei:ref type="url"
                         target="https://drive.google.com/file/d/0BzWDYcgAm4e_V21hNTMxai1GY00"/>
                <note type="param" n="p_weekdays-published">Tuesday, Friday</note>

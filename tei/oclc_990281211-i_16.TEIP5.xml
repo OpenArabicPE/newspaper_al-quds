@@ -81,7 +81,7 @@
                         <tei:biblScope from="16" to="16" unit="issue"/>
                         <biblScope from="1" to="4" unit="page"/>
                     </tei:monogr>
-                    <tei:ref target="http://www.palestine.mei.columbia.edu/alquds-issues/2017/2/17/issue-16"
+                    <tei:ref target="http://palestine.mei.columbia.edu/alquds-issues/2017/2/17/issue-16"
                         type="url"/>
                     <note n="p_weekdays-published" type="param">Tuesday, Friday</note>
                     <note n="p_step" type="param">daily</note>
