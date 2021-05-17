@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://rawgit.com/OpenArabicPE/OpenArabicPE_ODD/v0.1/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../boilerplate/xslt/teibp_parameters.xsl"?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0"
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="https://openarabicpe.github.io/OpenArabicPE_ODD/schema/tei_periodical.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="https://openarabicpe.github.io/tei-boilerplate-arabic-editions/boilerplate/xslt/teibp_parameters.xsl"?><tei:TEI xmlns="http://www.tei-c.org/ns/1.0"
          xmlns:tei="http://www.tei-c.org/ns/1.0"
          xml:id="oclc_990281211-i_124"
          prev="oclc_990281211-i_123.TEIP5.xml"
@@ -25,7 +25,7 @@
             <availability status="restricted">
                <licence target="http://creativecommons.org/licenses/by-sa/4.0/">Distributed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license</licence>
             </availability>
-            <idno type="url">https://github.com/openarabicpe/newspaper_thamarat-al-funun/blob/master/xml/oclc_990281211-i_124.TEIP5.xml</idno>
+            <idno type="url">https://github.com/openarabicpe/newspaper_al-quds/blob/master/xml/oclc_990281211-i_124.TEIP5.xml</idno>
          </tei:publicationStmt>
          <tei:sourceDesc>
             <tei:biblStruct xml:lang="en">
