@@ -21,7 +21,7 @@
             </sourceDesc>
         </fileDesc>
         <revisionDesc xml:lang="en">
-            <change when="2021-05-17" who="#pers_TG" xml:id="d9e87" xml:lang="en" xmlns="">Added references to local authority file (<tei:ref
+            <change when="2021-05-17" who="#pers_TG" xml:id="d9e87" xml:lang="en">Added references to local authority file (<tei:ref
                 target="/BachUni/BachBibliothek/GitHub/OpenArabicPE/authority-files/data/tei/gazetteer_OpenArabicPE.TEIP5.xml"
                 >/BachUni/BachBibliothek/GitHub/OpenArabicPE/authority-files/data/tei/gazetteer_OpenArabicPE.TEIP5.xml</tei:ref>) and to GeoNames IDs to <tei:gi>placeName</tei:gi>s without such references based on  <tei:gi>place</tei:gi>s mentioned in the authority file.</change>
             <tei:change when="2021-05-17" who="#pers_TG" xml:id="d9e72" xml:lang="en">Added references to local authority file (<tei:ref
