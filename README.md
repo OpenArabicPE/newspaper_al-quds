@@ -8,7 +8,9 @@ ORCID: orcid.org/0000-0002-5739-8094
 [![GitHub release](https://img.shields.io/github/release/openarabicpe/newspaper_al-quds.svg?maxAge=2592000)](https://github.com/openarabicpe/newspaper_al-quds/releases)
 [![DOI](https://zenodo.org/badge/91387012.svg)](https://zenodo.org/badge/latestdoi/91387012)
 
-This repository contains bibliographic metadata for the newspaper *al-Quds* published by Jirjī Ḥabīb Ḥanāniyā in Jerusalem between 1908 and 1914. The Center for Palestine Studies at Columbia University scanned issues 1 to 391 and put them [online](http://www.palestine.mei.columbia.edu/alquds-issues/2017/3/9/al-quds). Currently these issues can only be accessed through their issue number and nested sub pages. I therefore produced machine-actionable bibliographic metadata including volume and issue numbers, as well as dates in all three calendars mentioned in the paper's masthead.
+This repository contains bibliographic metadata for the newspaper *al-Quds* published by Jirjī Ḥabīb Ḥanāniyā in Jerusalem between 1908 and 1914. The Center for Palestine Studies at Columbia University scanned issues 1 to 391 and put them [online](http://palestine.mei.columbia.edu/alquds-issues/2017/3/9/al-quds). Currently these issues can only be accessed through their issue number and nested sub pages. I therefore produced machine-actionable bibliographic metadata including volume and issue numbers, as well as dates in all three calendars mentioned in the paper's masthead.
+
+**NOTE**: as of late 2021 the facsimiles can no longer be reached. they were originally hosted on a Google Drive and all links are broken.
 
 # some technical details
 
